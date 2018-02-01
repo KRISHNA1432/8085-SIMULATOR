@@ -39,3 +39,8 @@ Any one can run run this program with the following commands on the terminal
 
 4.Program_Name Debugger                      (take input from terminal with debugger)
 
+
+NOTE : Please Refer to the sample program given in input.txt
+
+
+                                                            THANK YOU !
